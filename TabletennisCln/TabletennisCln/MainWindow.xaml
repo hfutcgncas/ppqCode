@@ -1,0 +1,23 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:TabletennisCln"
+        xmlns:PMAC_Communicate="clr-namespace:PMAC_Communicate;assembly=PMAC_Communicate" 
+        x:Class="TabletennisCln.MainWindow"
+        Title="MainWindow" Height="343.1" Width="848.469" Closed="Window_Closed">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFE5E5F1"/>
+            <GradientStop Color="#FF1E1E1E" Offset="0.999"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid>
+
+        <Button  x:Name="BT_VisionConect"  Content="Connect To Vision" Height="29" VerticalAlignment="Top" Margin="594,17,10.4,0" Click="Button_Click" Background="#FF4977C7" />
+        <TextBlock x:Name="TBK_VisionOut"  Margin="594,46,10.4,45.6" TextWrapping="Wrap" />
+        <!--<local:ZSPCt  x:Name="ZSPCt"  HorizontalAlignment="Left" Height="161" Margin="562,0,-78.6,0" VerticalAlignment="Top" Width="239"/>-->
+        <TextBox  x:Name="TB_lambda" HorizontalAlignment="Left" Height="25" Margin="641,273,0,0" TextWrapping="Wrap" Text="0.9" VerticalAlignment="Top" Width="73"  />
+        <Button Content="Button" HorizontalAlignment="Left" Height="25" Margin="719,273,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1"/>
+        <PMAC_Communicate:UserControl1  x:Name="Control_Arm"  HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

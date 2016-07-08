@@ -1,0 +1,280 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\bin\Debug\TabletennisCln.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\bin\Debug\TabletennisCln.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\bin\Debug\TabletennisCln.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\bin\Debug\Pmac_Comm.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\obj\Debug\MainWindow.baml
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\obj\Debug\App.g.cs
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\obj\Debug\TabletennisCln_MarkupCompile.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\obj\Debug\TabletennisCln.g.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\obj\Debug\TabletennisCln.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\TabletennisCln\obj\Debug\TabletennisCln.pdb
+H:\lab\PMAC_Communicate - V2\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+H:\lab\PMAC_Communicate - V2\TabletennisCln\bin\Debug\Pmac_Comm.dll
+H:\lab\PMAC_Communicate - V2\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+H:\lab\PMAC_Communicate - V2\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+H:\lab\PMAC_Communicate - V2\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+H:\lab\PMAC_Communicate - V2\TabletennisCln\obj\Debug\MainWindow.baml
+H:\lab\PMAC_Communicate - V2\TabletennisCln\obj\Debug\MainWindow.g.cs
+H:\lab\PMAC_Communicate - V2\TabletennisCln\obj\Debug\App.g.cs
+H:\lab\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+H:\lab\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+H:\lab\PMAC_Communicate - V2\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+H:\lab\PMAC_Communicate - V2\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+H:\lab\PMAC_Communicate - V2\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+H:\lab\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+H:\lab\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+H:\lab\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+H:\lab\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\ZSPCt.g.cs
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\App.g.cs
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\bin\Debug\Pmac_Comm.dll
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\MainWindow.g.cs
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\MainWindow.baml
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\ZSPCt.baml
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+H:\lab\打球1\PMAC_Communicate - V2\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\bin\Debug\Pmac_Comm.dll
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\obj\Debug\MainWindow.g.cs
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\obj\Debug\App.g.cs
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\obj\Debug\MainWindow.baml
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+H:\lab\打球1\PMAC_Communicate - V3\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\bin\Debug\Pmac_Comm.dll
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\MainWindow.g.cs
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\App.g.cs
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\MainWindow.baml
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+D:\Users\Think\桌面\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisCln.csprojResolveAssemblyReference.cache
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\bin\Debug\Pmac_Comm.dll
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\MainWindow.g.cs
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\App.g.cs
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\MainWindow.baml
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+F:\Users\Think\desktop\ppqCode\bat\TabletennisCln\obj\Debug\TabletennisCln.csprojResolveAssemblyReference.cache
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\bin\Debug\Pmac_Comm.dll
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\TabletennisCln.csprojResolveAssemblyReference.cache
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\MainWindow.g.cs
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\App.g.cs
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\MainWindow.baml
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+F:\Users\Think\desktop\ppqCode\bat - 副本\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+E:\liu\bat - 副本\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+E:\liu\bat - 副本\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+E:\liu\bat - 副本\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+E:\liu\bat - 副本\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+E:\liu\bat - 副本\TabletennisCln\bin\Debug\Pmac_Comm.dll
+E:\liu\bat - 副本\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\liu\bat - 副本\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+E:\liu\bat - 副本\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\MainWindow.g.cs
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\App.g.cs
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\MainWindow.baml
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+E:\liu\bat - 副本\TabletennisCln\obj\Debug\TabletennisCln.csprojResolveAssemblyReference.cache
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\bin\Debug\Pmac_Comm.dll
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\MainWindow.g.cs
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\App.g.cs
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\MainWindow.baml
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+F:\Users\Think\desktop\ppqCode\batV2\TabletennisCln\obj\Debug\TabletennisCln.csprojResolveAssemblyReference.cache
+E:\liu\batV2\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+E:\liu\batV2\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+E:\liu\batV2\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+E:\liu\batV2\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+E:\liu\batV2\TabletennisCln\bin\Debug\Pmac_Comm.dll
+E:\liu\batV2\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\liu\batV2\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+E:\liu\batV2\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+E:\liu\batV2\TabletennisCln\obj\Debug\TabletennisCln.csprojResolveAssemblyReference.cache
+E:\liu\batV2\TabletennisCln\obj\Debug\MainWindow.g.cs
+E:\liu\batV2\TabletennisCln\obj\Debug\App.g.cs
+E:\liu\batV2\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+E:\liu\batV2\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+E:\liu\batV2\TabletennisCln\obj\Debug\MainWindow.baml
+E:\liu\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+E:\liu\batV2\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+E:\liu\batV2\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+E:\liu\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+E:\liu\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+E:\liu\ppqCodeV2\batV2\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+E:\liu\ppqCodeV2\batV2\TabletennisCln\bin\Debug\Pmac_Comm.dll
+E:\liu\ppqCodeV2\batV2\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\liu\ppqCodeV2\batV2\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+E:\liu\ppqCodeV2\batV2\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\MainWindow.g.cs
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\App.g.cs
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\MainWindow.baml
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+E:\liu\ppqCodeV2\batV2\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+E:\liu\ppqCodeV2\batV2\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+E:\liu\ppqCodeV2\batV2\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+E:\liu\ppqCodeV2\batV2\TabletennisCln\obj\Debug\TabletennisCln.csprojResolveAssemblyReference.cache
+G:\ppqCodeV2\batV2\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+G:\ppqCodeV2\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+G:\ppqCodeV2\batV2\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\Pmac_Comm.dll
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\TabletennisClnV2.exe.config
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\TabletennisClnV2.exe
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\TabletennisClnV2.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\PMAC_Communicate.dll
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\Pmac_Comm.dll
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\PMAC_Communicate.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\bin\Debug\Pmac_Comm.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\Debug\TabletennisClnV2.exe.config
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\Debug\TabletennisClnV2.exe
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\Debug\TabletennisClnV2.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\MainWindow.g.cs
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\App.g.cs
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\MainWindow.baml
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+E:\liu\ppqCodeV2\TabletennisCln\Debug\TabletennisClnV2.exe.config
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+E:\liu\ppqCodeV2\TabletennisCln\Debug\TabletennisClnV2.exe
+E:\liu\ppqCodeV2\TabletennisCln\Debug\TabletennisClnV2.pdb
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\MainWindow.g.cs
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\App.g.cs
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\MainWindow.baml
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+E:\liu\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.csprojResolveAssemblyReference.cache
+G:\ppqCodeV2\TabletennisCln\Debug\TabletennisClnV2.exe.config
+G:\ppqCodeV2\TabletennisCln\Debug\TabletennisClnV2.exe
+G:\ppqCodeV2\TabletennisCln\Debug\TabletennisClnV2.pdb
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.csprojResolveAssemblyReference.cache
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\MainWindow.g.cs
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\App.g.cs
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\MainWindow.baml
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+G:\ppqCodeV2\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+E:\liu\ppqCodeV3\TabletennisCln\Debug\TabletennisClnV2.exe.config
+E:\liu\ppqCodeV3\TabletennisCln\Debug\TabletennisClnV2.exe
+E:\liu\ppqCodeV3\TabletennisCln\Debug\TabletennisClnV2.pdb
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\MainWindow.g.cs
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\App.g.cs
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.cache
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2_MarkupCompile.lref
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\MainWindow.baml
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.g.resources
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.Properties.Resources.resources
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.csproj.GenerateResource.Cache
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.exe
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\TabletennisClnV2.pdb
+E:\liu\ppqCodeV3\TabletennisCln\TabletennisCln\obj\Debug\TabletennisCln.csprojResolveAssemblyReference.cache

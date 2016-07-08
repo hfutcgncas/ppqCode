@@ -1,0 +1,53 @@
+﻿Build started 2016/7/7 21:29:34.
+     1>Project "E:\liu\ppqCodeV3\TabletennisCln\colorCamera\colorCamera\colorCamera.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BallFinderCamera.cpp cBallModel.cpp cRobotArm.cpp dataStruct.cpp GlobleSrouce.cpp main.cpp MERCamera.cpp StereoCamera.cpp testPro.cpp
+         testPro.cpp
+         StereoCamera.cpp
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\opencvx86\vc12\include\opencv2\core\mat.hpp(1413): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\stereocamera.cpp(230): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\stereocamera.cpp(287): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\stereocamera.cpp(293): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         MERCamera.cpp
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\opencvx86\vc12\include\opencv2\core\mat.hpp(1413): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         main.cpp
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\opencvx86\vc12\include\opencv2\core\mat.hpp(1413): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\main.cpp(38): warning C4244: 'argument' : conversion from 'uint64_t' to 'double', possible loss of data
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\main.cpp(71): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\main.cpp(77): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         GlobleSrouce.cpp
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\globlesrouce.cpp(171): warning C4305: '=' : truncation from 'double' to 'float'
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\globlesrouce.cpp(172): warning C4305: '=' : truncation from 'double' to 'float'
+         dataStruct.cpp
+         cRobotArm.cpp
+         cBallModel.cpp
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\cballmodel.cpp(213): warning C4018: '<' : signed/unsigned mismatch
+         BallFinderCamera.cpp
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\opencvx86\vc12\include\opencv2\core\mat.hpp(1413): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\ballfindercamera.cpp(96): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\ballfindercamera.cpp(97): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\ballfindercamera.cpp(110): warning C4101: 'src' : unreferenced local variable
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\ballfindercamera.cpp(209): warning C4101: 'i' : unreferenced local variable
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\ballfindercamera.cpp(209): warning C4101: 'j' : unreferenced local variable
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\ballfindercamera.cpp(413): warning C4244: '=' : conversion from 'uint64_t' to 'int', possible loss of data
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\ballfindercamera.cpp(468): warning C4244: '=' : conversion from 'uint64_t' to 'int', possible loss of data
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\ballfindercamera.cpp(521): warning C4244: '=' : conversion from 'uint64_t' to 'int', possible loss of data
+         Generating Code...
+     1>e:\liu\ppqcodev3\tabletenniscln\colorcamera\colorcamera\cballmodel.cpp(121): warning C4715: 'cBallModel::predict_dt' : not all control paths return a value
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\Debug\colorCamera.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\DELL\Desktop\ZSPClient\colorCamera\lib\x86 GxIAPI.lib DxImageProc.lib opencv_ts300.lib opencv_world300.lib opencv_calib3d300.lib odbc32.lib odbccp32.lib "libgsl-0.lib" "libgslcblas-0.lib" "libnlopt-0.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\..\Debug\colorCamera.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\Debug\colorCamera.lib" /MACHINE:X86 Debug\BallFinderCamera.obj
+         Debug\cBallModel.obj
+         Debug\cRobotArm.obj
+         Debug\dataStruct.obj
+         Debug\GlobleSrouce.obj
+         Debug\main.obj
+         Debug\MERCamera.obj
+         Debug\StereoCamera.obj
+         Debug\testPro.obj
+         colorCamera.vcxproj -> E:\liu\ppqCodeV3\TabletennisCln\colorCamera\colorCamera\..\..\Debug\colorCamera.exe
+     1>Done Building Project "E:\liu\ppqCodeV3\TabletennisCln\colorCamera\colorCamera\colorCamera.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.86

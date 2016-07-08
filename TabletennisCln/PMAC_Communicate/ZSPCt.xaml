@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="PMAC_Communicate.ZSPCt"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:here ="clr-namespace:PMAC_Communicate" 
+             Unloaded="UserControl_Unloaded"
+             
+             mc:Ignorable="d" Height="143.6" Width="239.2">
+    <UserControl.DataContext>
+        <here:data x:Name="d"/>
+    </UserControl.DataContext>
+    <Grid>
+        <Button  x:Name="BT_WaitZSP"  Content="{Binding  Path = ZSP_Statue}" Height="34" VerticalAlignment="Top" Click="BTC_WaitZSP" Background="#FF467E4F"/>
+       
+        <Slider x:Name="SL_s" Height="25" Margin="28,45,0,0" VerticalAlignment="Top" Value="{Binding  Path = Hit_S, Mode=TwoWay}" Minimum="{Binding  Path = S_MIN}"  Maximum="{Binding  Path = S_MAX}" HorizontalAlignment="Left" Width="169" LargeChange="10" SmallChange="1" />
+        <Slider x:Name="SL_p" Height="27" Margin="28,81,0,0" VerticalAlignment="Top" Value="{Binding  Path = Hit_P, Mode=TwoWay}" Minimum="{Binding  Path = P_MIN}"  Maximum="{Binding  Path = P_MAX}" HorizontalAlignment="Left" Width="169" LargeChange="10" SmallChange="1"/>
+        <Button Content="Home" HorizontalAlignment="Left" Height="25" Margin="0,115,0,0" VerticalAlignment="Top" Width="121" Click="BTC_HomeZSP"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="10,48,0,0" TextWrapping="Wrap" Text="S" VerticalAlignment="Top" Width="13"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="10,81,0,0" TextWrapping="Wrap" Text="P" VerticalAlignment="Top" Width="13"/>
+        <Button Content="Close ZSP" HorizontalAlignment="Left" Height="25" Margin="121,115,0,0" VerticalAlignment="Top" Width="115" Click="BTC_CloseZSP" Background="#FFEA2702"/>
+       
+        <TextBlock x:Name="TBK_sPos" HorizontalAlignment="Left" Height="28" Margin="202,48,0,0" TextWrapping="Wrap" Text="{Binding Path=Value,ElementName=SL_s}" VerticalAlignment="Top" Width="28"/>
+        <TextBlock x:Name="TBK_pPos" HorizontalAlignment="Left" Height="29" Margin="201,81,0,0" TextWrapping="Wrap" Text="{Binding Path=Value,ElementName=SL_p}"  VerticalAlignment="Top" Width="28"/>
+
+    </Grid>
+</UserControl>

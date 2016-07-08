@@ -1,0 +1,15 @@
+;Log created by PMAC Win32 Driver from file: F:\Users\Think\desktop\PMACpro.PMC
+;
+000001:            Processing Macro File: F:\Users\Think\desktop\PMACpro.PMC
+000002:            $60450
+000003:            Total Lines: 213
+000004:            Compiling for PLCC: F:\Users\Think\desktop\PMACpro.PMA = F:\Users\Think\desktop\PMACpro.56K
+000005:            PLCC Compiling PMAC file: F:\Users\Think\desktop\PMACpro.PMA
+000006:            Success in Compiling to output file: F:\Users\Think\desktop\PMACpro.56K
+000007:            No PLCC(s) were compiled
+000008:            Downloading file: F:\Users\Think\desktop\PMACpro.56K
+000009:            Downloaded 153 lines in 70 msecs
+000010:            Writing MAP file: F:\Users\Think\desktop\PMACpro.MAP
+000011:            Writing macro dictionary table: F:\Users\Think\desktop\PMACpro.TBL
+000012:            Total Warnings: 0
+000013:            Total Errors: 0

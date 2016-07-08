@@ -1,0 +1,272 @@
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+H:\lab\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+H:\lab\打球1\PMAC_Communicate - V2\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\ZSPCt.baml
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+H:\lab\打球1\PMAC_Communicate - V3\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\ZSPCt.baml
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+D:\Users\Think\桌面\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\ZSPCt.baml
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+F:\Users\Think\desktop\ppqCode\bat\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\ZSPCt.baml
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+F:\Users\Think\desktop\ppqCode\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+E:\liu\bat - 副本\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+E:\liu\bat - 副本\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+E:\liu\bat - 副本\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+E:\liu\bat - 副本\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\liu\bat - 副本\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\ZSPCt.baml
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+E:\liu\bat - 副本\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\ZSPCt.baml
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+F:\Users\Think\desktop\ppqCode\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+E:\liu\batV2\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+E:\liu\batV2\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+E:\liu\batV2\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+E:\liu\batV2\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\liu\batV2\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+E:\liu\batV2\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+E:\liu\batV2\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+E:\liu\batV2\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\liu\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+E:\liu\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+E:\liu\batV2\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+E:\liu\batV2\PMAC_Communicate\obj\Debug\ZSPCt.baml
+E:\liu\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+E:\liu\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+E:\liu\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+E:\liu\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+E:\liu\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+E:\liu\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\ZSPCt.baml
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+E:\liu\ppqCodeV2\batV2\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ZSPCt.baml
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ZSPCt.baml
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+E:\liu\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\ZSPCt.baml
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+G:\ppqCodeV2\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\bin\Debug\PMAC_Communicate.dll
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\bin\Debug\PMAC_Communicate.pdb
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\bin\Debug\Pmac_Comm.dll
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\bin\Debug\Interop.PCOMMSERVERLib.dll
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\bin\Debug\Pmac_Comm.pdb
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\ArmCtrl.g.cs
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\ZSPCt.g.cs
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.cache
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate_MarkupCompile.lref
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\ArmCtrl.baml
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\ZSPCt.baml
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.g.resources
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.Properties.Resources.resources
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.csproj.GenerateResource.Cache
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.dll
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.pdb
+E:\liu\ppqCodeV3\TabletennisCln\PMAC_Communicate\obj\Debug\PMAC_Communicate.csprojResolveAssemblyReference.cache

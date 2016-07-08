@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${exec_prefix}/include
+
+Name: GSL
+Description: GNU Scientific Library
+Version: 1.14
+Libs: -L${libdir} -lgsl -lgslcblas -lm 
+Cflags: -I${includedir}

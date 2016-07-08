@@ -1,0 +1,49 @@
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+D:\Users\Think\Documents\Visual Studio 2013\Projects\PMAC_Communicate\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\PMAC_Communicate\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
+H:\lab\PMAC_Communicate - V2\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+H:\lab\PMAC_Communicate - V2\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+H:\lab\PMAC_Communicate - V2\Pmac_Comm\obj\Debug\Pmac_Comm.csprojResolveAssemblyReference.cache
+H:\lab\PMAC_Communicate - V2\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+H:\lab\PMAC_Communicate - V2\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
+H:\lab\打球1\PMAC_Communicate - V3\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+H:\lab\打球1\PMAC_Communicate - V3\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+H:\lab\打球1\PMAC_Communicate - V3\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+H:\lab\打球1\PMAC_Communicate - V3\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
+D:\Users\Think\桌面\ppqCode\bat\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+D:\Users\Think\桌面\ppqCode\bat\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+D:\Users\Think\桌面\ppqCode\bat\Pmac_Comm\obj\Debug\Pmac_Comm.csprojResolveAssemblyReference.cache
+D:\Users\Think\桌面\ppqCode\bat\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+D:\Users\Think\桌面\ppqCode\bat\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
+F:\Users\Think\desktop\ppqCode\bat\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+F:\Users\Think\desktop\ppqCode\bat\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+F:\Users\Think\desktop\ppqCode\bat\Pmac_Comm\obj\Debug\Pmac_Comm.csprojResolveAssemblyReference.cache
+F:\Users\Think\desktop\ppqCode\bat\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+F:\Users\Think\desktop\ppqCode\bat\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
+E:\liu\bat - 副本\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+E:\liu\bat - 副本\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+E:\liu\bat - 副本\Pmac_Comm\obj\Debug\Pmac_Comm.csprojResolveAssemblyReference.cache
+E:\liu\bat - 副本\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+E:\liu\bat - 副本\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
+F:\Users\Think\desktop\ppqCode\batV2\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+F:\Users\Think\desktop\ppqCode\batV2\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+F:\Users\Think\desktop\ppqCode\batV2\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+F:\Users\Think\desktop\ppqCode\batV2\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+E:\liu\新建文件夹\ppqCodeV2\TabletennisCln\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
+G:\ppqCodeV2\TabletennisCln\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+G:\ppqCodeV2\TabletennisCln\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+G:\ppqCodeV2\TabletennisCln\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+G:\ppqCodeV2\TabletennisCln\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
+E:\liu\ppqCodeV3\TabletennisCln\Pmac_Comm\bin\Debug\Pmac_Comm.dll
+E:\liu\ppqCodeV3\TabletennisCln\Pmac_Comm\bin\Debug\Pmac_Comm.pdb
+E:\liu\ppqCodeV3\TabletennisCln\Pmac_Comm\obj\Debug\Pmac_Comm.csprojResolveAssemblyReference.cache
+E:\liu\ppqCodeV3\TabletennisCln\Pmac_Comm\obj\Debug\Pmac_Comm.dll
+E:\liu\ppqCodeV3\TabletennisCln\Pmac_Comm\obj\Debug\Pmac_Comm.pdb
